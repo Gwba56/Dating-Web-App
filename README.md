@@ -1,8 +1,4 @@
-Projet Matcha
-
-Featuring :
-Terry la star
-Gwen la mamie
+Dating Web App
 
 Lancer le projet :
 
@@ -11,7 +7,7 @@ Lancer le projet :
 `npm install`
 
 - Création de la base de données -
-`mysql -u root -p < config/setup.sql`
+`{path}mysql -u root -p < config/setup.sql`
 
 - Lancement du serveur -
 `nodemon app.js`
